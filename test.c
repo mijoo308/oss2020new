@@ -6,3 +6,6 @@ new from test
 
 Hi
 from miju
+
+Bye 
+from dangsal 
